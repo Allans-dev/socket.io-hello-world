@@ -2,5 +2,7 @@
     "name": "socket-chat-example",
     "version": "0.0.1",
     "description": "socket.io chat hello world before integrating with react",
-    "dependencies": {}
+    "dependencies": {
+        "express": "^4.16.3"
+    }
 }
